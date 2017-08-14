@@ -1,0 +1,14 @@
+##
+## Believe what buddha said!
+##
+$the_cow = <<EOC;
+    $thoughts
+      _oo0oo_     
+     o8888888o     
+     88" . "88     
+     (| $eyes |)     
+     0\\  $tongue  /0     
+   ___/`---'\\___  
+ .' \\\\|     |// '. 
+/ \\\\|||  :  |||// \\
+EOC
